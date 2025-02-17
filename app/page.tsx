@@ -1,12 +1,12 @@
 import { Hero } from "@/components/Hero";
-import { Inducement } from "@/components/Inducement"
+import Endorsement from "@/components/endorsement";
 
 
 export default function Home() {
   return (
    <div>
     <Hero/>
-    <Inducement/>
+    <Endorsement/>
    </div>
   );
 }
