@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import { Spotlight } from "@/components/ui/spotlight-new";
+import Link from "next/link";
 
 export function Hero() {
   return (
@@ -14,6 +15,12 @@ export function Hero() {
           A subtle yet effective spotlight effect, because the previous version
           is used a bit too much these days.
         </p>
+        <div className="flex justify-center items-center mt-8">
+          <Link href={'/login'}>
+          <button className="shadow-[inset_0_0_0_2px_#616467] text-black px-12 py-4 rounded-full tracking-widest uppercase font-bold bg-transparent hover:bg-[#616467] hover:text-white dark:text-neutral-200 transition duration-200">
+               LOGIN
+        </button></Link>
+        </div>
       </div>
     </div>
   );
