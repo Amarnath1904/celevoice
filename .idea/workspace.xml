@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d9bc99b-63bb-4cff-b1e3-2f6e8d5b0574" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Inducement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/endorsement.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="1d9bc99b-63bb-4cff-b1e3-2f6e8d5b0574" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +53,7 @@
       <updated>1739790182216</updated>
       <workItem from="1739790184153" duration="690000" />
       <workItem from="1739799906171" duration="1292000" />
-      <workItem from="1739811319596" duration="1314000" />
+      <workItem from="1739811319596" duration="1388000" />
     </task>
     <servers />
   </component>
